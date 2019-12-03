@@ -7,7 +7,7 @@
     <language>ja-jp</language>
     <lastBuildDate>Mon, 02 Dec 2019 21:11:55 +0900</lastBuildDate>
     <atom:link href="https://outerheavenproject.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
-    
+    <itunes:image href="https://outerheavenproject.github.io/images/ohfm.png" />
     <itunes:category text="Technology">
       
     </itunes:category>
