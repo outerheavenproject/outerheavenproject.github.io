@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outer-heaven.fm</title>
+    <link>https://outerheavenproject.github.io/</link>
+    <description>Recent content on outer-heaven.fm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 02 Dec 2019 21:11:55 +0900</lastBuildDate>
+    <atom:link href="https://outerheavenproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Season1 Episode1 - OUTER HEAVEN PROJECT</title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode1/</link>
+      <pubDate>Mon, 02 Dec 2019 21:11:55 +0900</pubDate>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode1/</guid>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 1 回目です。&lt;/p&gt;
+&lt;p&gt;この episode では、Jetbrains が予告している New product announcement の話を皮切りに、OUTER HEAVEN PROJECT がそもそも何なのかについて話しました。
+また、Project で作った Android Dagger codelab の話や、Android アプリ開発で使われる DI Framework の話もしています。 ちなみに Kodein については会話の中でほとんど触れていませんが、今以て精力的に開発が行われており、引き続き有力な選択肢の一つとなりそうです。&lt;/p&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;New product announcement
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;https://www.jetbrains.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;On KotlinConf Jetbrains will announce new product. What do you think it will be? - Reddit
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/Kotlin/comments/e2fyfj/on_kotlinconf_jetbrains_will_announce_new_product/&#34;&gt;https://www.reddit.com/r/Kotlin/comments/e2fyfj/on_kotlinconf_jetbrains_will_announce_new_product/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;OUTER HEAVEN PROJECT
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/outerheavenproject&#34;&gt;https://github.com/outerheavenproject&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Android Dagger codelab
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dagger-codelab.netlify.com&#34;&gt;https://dagger-codelab.netlify.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dagger 2
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/dagger&#34;&gt;https://github.com/google/dagger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Koin
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/InsertKoinIO/koin&#34;&gt;https://github.com/InsertKoinIO/koin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kodein
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Kodein-Framework/Kodein-DI&#34;&gt;https://github.com/Kodein-Framework/Kodein-DI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://outerheavenproject.github.io/about/</link>
+      <pubDate>Fri, 29 Nov 2019 12:20:27 +0900</pubDate>
+      <guid>https://outerheavenproject.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; は Native アプリエンジニアとして働いている 3 人が Android を中心として、Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す &lt;a href=&#34;https://github.com/outerheavenproject&#34;&gt;OUTER HEAVEN PROJECT&lt;/a&gt; の Podcast です。&lt;/p&gt;
+&lt;p&gt;更新頻度は不定期です。更新されるかもしれないし、されないかもしれません。&lt;/p&gt;
+&lt;h2 id=&#34;hosted-by&#34;&gt;Hosted by&lt;/h2&gt;
+&lt;style&gt;
+th {
+    margin: 16px;
+    width: calc(100% / 3);
+}
+.profile-image {
+    width: 90%;
+    border-radius: 50%;
+}
+&lt;/style&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/CORDEA&#34; class=&#34;profile-image&#34; /&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/keima&#34; class=&#34;profile-image&#34; /&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/satoshun&#34; class=&#34;profile-image&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;よっぴー&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;けいま&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;stsn&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Android Applications Engineer.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://twitter.com/_Cordea&#34;&gt;Twitter&lt;/a&gt; / &lt;a href=&#34;https://github.com/CORDEA&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://twitter.com/pside&#34;&gt;Twitter&lt;/a&gt; / &lt;a href=&#34;https://github.com/keima&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://twitter.com/stsn_jp&#34;&gt;Twitter&lt;/a&gt; / &lt;a href=&#34;https://github.com/satoshun&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>outer-heaven.fm</title>
+    <link>https://outerheavenproject.github.io/podcast/</link>
+    <description>Android を中心として Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す OUTER HEAVEN PROJECT の Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 02 Dec 2019 21:11:55 +0900</lastBuildDate>
+    <atom:link href="https://outerheavenproject.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    <itunes:category text="Technology">
+      
+    </itunes:category>
+    <itunes:summary>Android を中心として Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す OUTER HEAVEN PROJECT の Podcast</itunes:summary>
+    <itunes:author>OUTER HEAVEN PROJECT</itunes:author>
+    
+    
+    
+    
+    <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <title>Season1 Episode1 - OUTER HEAVEN PROJECT</title>
+      <itunes:title>Season1 Episode1 - OUTER HEAVEN PROJECT</itunes:title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode1/</link>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode1/</guid>
+      <pubDate>Mon, 02 Dec 2019 21:11:55 +0900</pubDate>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 1 回目です。&lt;/p&gt;
+&lt;p&gt;この episode では、Jetbrains が予告している New product announcement の話を皮切りに、OUTER HEAVEN PROJECT がそもそも何なのかについて話しました。
+また、Project で作った Android Dagger codelab の話や、Android アプリ開発で使われる DI Framework の話もしています。 ちなみに Kodein については会話の中でほとんど触れていませんが、今以て精力的に開発が行われており、引き続き有力な選択肢の一つとなりそうです。&lt;/p&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;New product announcement
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;https://www.jetbrains.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;On KotlinConf Jetbrains will announce new product. What do you think it will be? - Reddit
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/Kotlin/comments/e2fyfj/on_kotlinconf_jetbrains_will_announce_new_product/&#34;&gt;https://www.reddit.com/r/Kotlin/comments/e2fyfj/on_kotlinconf_jetbrains_will_announce_new_product/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;OUTER HEAVEN PROJECT
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/outerheavenproject&#34;&gt;https://github.com/outerheavenproject&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Android Dagger codelab
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dagger-codelab.netlify.com&#34;&gt;https://dagger-codelab.netlify.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dagger 2
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/dagger&#34;&gt;https://github.com/google/dagger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Koin
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/InsertKoinIO/koin&#34;&gt;https://github.com/InsertKoinIO/koin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kodein
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Kodein-Framework/Kodein-DI&#34;&gt;https://github.com/Kodein-Framework/Kodein-DI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-01.m4a" length="5898863" type="audio/mpeg" />
+      <itunes:duration>11:57</itunes:duration>
+      
+      <itunes:episode>1</itunes:episode>
+      
+      <itunes:season>1</itunes:season>
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>
