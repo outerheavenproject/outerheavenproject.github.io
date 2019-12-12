@@ -6,8 +6,26 @@
     <description>Recent content on outer-heaven.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 02 Dec 2019 21:11:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2019 22:17:22 +0900</lastBuildDate>
     <atom:link href="https://outerheavenproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Season1 Episode2 - Testing and CI/CD, now and future</title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode2/</link>
+      <pubDate>Wed, 11 Dec 2019 22:17:22 +0900</pubDate>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode2/</guid>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 2 回目です。&lt;/p&gt;
+&lt;p&gt;この episode では、Unit test や UI test のあり方について話しました。後半では CI/CD の話やマネージメントポジションの人のプロダクト貢献について話しています。&lt;/p&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Take screenshots in instrumentation tests
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://firebase.google.com/docs/test-lab/android/test-screenshots&#34;&gt;https://firebase.google.com/docs/test-lab/android/test-screenshots&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Season1 Episode1 - OUTER HEAVEN PROJECT</title>
