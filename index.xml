@@ -6,8 +6,59 @@
     <description>Recent content on outer-heaven.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 11 Dec 2019 22:17:22 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 21:41:44 +0900</lastBuildDate>
     <atom:link href="https://outerheavenproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Season1 Episode4 - Sign in with Apple on Android</title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode4/</link>
+      <pubDate>Thu, 19 Dec 2019 21:41:44 +0900</pubDate>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode4/</guid>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 4 回目です。&lt;/p&gt;
+&lt;p&gt;この episode では Sign in with Apple を Android で実装することについて話しました。&lt;/p&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;How to add ‘Sign in with Apple’ button to your Android app using Kotlin
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://johncodeos.com/how-to-add-sign-in-with-apple-button-to-your-android-app-using-kotlin/&#34;&gt;https://johncodeos.com/how-to-add-sign-in-with-apple-button-to-your-android-app-using-kotlin/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Sign in with Apple
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/sign-in-with-apple/&#34;&gt;https://developer.apple.com/sign-in-with-apple/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;New Guidelines for Sign in with Apple
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/news/?id=09122019b&#34;&gt;https://developer.apple.com/news/?id=09122019b&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Season1 Episode3 - ThoughtWorks Radar</title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode3/</link>
+      <pubDate>Thu, 19 Dec 2019 21:14:20 +0900</pubDate>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode3/</guid>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 3 回目です。&lt;/p&gt;
+&lt;p&gt;この episode では、ThoughtWorks Radar を見ながら最近の技術トレンドについて話しました。後半は 10x engineer のセクションに関連してチーム開発の話をしたり、デザインツールについて話したりしています。&lt;/p&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ThoughtWorks Radar
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thoughtworks.com/radar&#34;&gt;https://www.thoughtworks.com/radar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Jetpack Compose
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.android.com/jetpack/compose&#34;&gt;https://developer.android.com/jetpack/compose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Season1 Episode2 - Testing and CI/CD, now and future</title>
