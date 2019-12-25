@@ -5,7 +5,7 @@
     <description>Android を中心として Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す OUTER HEAVEN PROJECT の Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 19 Dec 2019 21:41:44 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2019 19:22:26 +0900</lastBuildDate>
     <atom:link href="https://outerheavenproject.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
     <itunes:image href="https://outerheavenproject.github.io/images/ohfm.png" />
     <itunes:category text="Technology">
@@ -18,6 +18,25 @@
     
     
     <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <title>Season1 Episode5 - Recruiting</title>
+      <itunes:title>Season1 Episode5 - Recruiting</itunes:title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode5/</link>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode5/</guid>
+      <pubDate>Sat, 21 Dec 2019 19:22:26 +0900</pubDate>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 5 回目です。&lt;/p&gt;
+&lt;p&gt;この episode では採用について話しました。私達から見た採用の現状や、モバイルアプリエンジニアを増やすために出来ることなど、色々なことを話しています。&lt;/p&gt;
+</description>
+      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-05.m4a" length="7138916" type="audio/mpeg" />
+      <itunes:duration>14:27</itunes:duration>
+      
+      <itunes:episode>5</itunes:episode>
+      
+      <itunes:season>1</itunes:season>
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     
     <item>
       <title>Season1 Episode4 - Sign in with Apple on Android</title>
