@@ -6,8 +6,33 @@
     <description>Recent content on outer-heaven.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 21 Dec 2019 19:37:48 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 17:21:14 +0900</lastBuildDate>
     <atom:link href="https://outerheavenproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Season1 Episode8 - Prologue</title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode8/</link>
+      <pubDate>Sat, 11 Jan 2020 17:21:14 +0900</pubDate>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode8/</guid>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 8 回目です。&lt;/p&gt;
+&lt;p&gt;この episode で &lt;code&gt;outer-heaven.fm&lt;/code&gt; Season 1 は終わりです。最後に少し振り返りをしました。Season 2 があるかどうかは分かりませんが、機会があればまたお会いしましょう。ここまでお聞きいただいた皆様、本当にありがとうございました！&lt;/p&gt;
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/_Cordea&#34;&gt;@_Cordea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/pside&#34;&gt;@pside&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Season1 Episode7 - Engineering survival guide</title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode7/</link>
+      <pubDate>Sat, 11 Jan 2020 16:57:28 +0900</pubDate>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode7/</guid>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 7 回目です。&lt;/p&gt;
+&lt;p&gt;この episode ではモバイルアプリエンジニアの生存戦略について話しました。前半はモバイルアプリエンジニアとして次の 10 年、20 年をどのように生き抜いていけばよいのか、ネイティブアプリの仕事が無くなる時のために何をすればよいのかについて話しています。後半はマネジメント業務をする意義、「プログラミングがそれほど好きではない人たち」の生存戦略について話しました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Season1 Episode6 - Team building</title>

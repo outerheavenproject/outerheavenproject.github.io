@@ -5,7 +5,7 @@
     <description>Android を中心として Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す OUTER HEAVEN PROJECT の Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 21 Dec 2019 19:37:48 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 17:21:14 +0900</lastBuildDate>
     <atom:link href="https://outerheavenproject.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
     <itunes:image href="https://outerheavenproject.github.io/images/ohfm.png" />
     <itunes:category text="Technology">
@@ -18,6 +18,49 @@
     
     
     <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <title>Season1 Episode8 - Prologue</title>
+      <itunes:title>Season1 Episode8 - Prologue</itunes:title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode8/</link>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode8/</guid>
+      <pubDate>Sat, 11 Jan 2020 17:21:14 +0900</pubDate>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 8 回目です。&lt;/p&gt;
+&lt;p&gt;この episode で &lt;code&gt;outer-heaven.fm&lt;/code&gt; Season 1 は終わりです。最後に少し振り返りをしました。Season 2 があるかどうかは分かりませんが、機会があればまたお会いしましょう。ここまでお聞きいただいた皆様、本当にありがとうございました！&lt;/p&gt;
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/_Cordea&#34;&gt;@_Cordea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/pside&#34;&gt;@pside&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-08.m4a" length="1900211" type="audio/mpeg" />
+      <itunes:duration>3:50</itunes:duration>
+      
+      <itunes:episode>8</itunes:episode>
+      
+      <itunes:season>1</itunes:season>
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Season1 Episode7 - Engineering survival guide</title>
+      <itunes:title>Season1 Episode7 - Engineering survival guide</itunes:title>
+      <link>https://outerheavenproject.github.io/podcast/season1_episode7/</link>
+      <guid>https://outerheavenproject.github.io/podcast/season1_episode7/</guid>
+      <pubDate>Sat, 11 Jan 2020 16:57:28 +0900</pubDate>
+      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 7 回目です。&lt;/p&gt;
+&lt;p&gt;この episode ではモバイルアプリエンジニアの生存戦略について話しました。前半はモバイルアプリエンジニアとして次の 10 年、20 年をどのように生き抜いていけばよいのか、ネイティブアプリの仕事が無くなる時のために何をすればよいのかについて話しています。後半はマネジメント業務をする意義、「プログラミングがそれほど好きではない人たち」の生存戦略について話しました。&lt;/p&gt;
+</description>
+      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-07.m4a" length="12078759" type="audio/mpeg" />
+      <itunes:duration>24:28</itunes:duration>
+      
+      <itunes:episode>7</itunes:episode>
+      
+      <itunes:season>1</itunes:season>
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     
     <item>
       <title>Season1 Episode6 - Team building</title>
