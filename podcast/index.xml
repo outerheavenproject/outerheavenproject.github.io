@@ -1,258 +1,92 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>outer-heaven.fm</title>
-    <link>https://outerheavenproject.github.io/podcast/</link>
-    <description>Android を中心として Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す OUTER HEAVEN PROJECT の Podcast</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Sat, 11 Jan 2020 17:21:14 +0900</lastBuildDate>
-    <atom:link href="https://outerheavenproject.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
-    <itunes:image href="https://outerheavenproject.github.io/images/ohfm.png" />
-    <itunes:category text="Technology">
-      
-    </itunes:category>
-    <itunes:summary>Android を中心として Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す OUTER HEAVEN PROJECT の Podcast</itunes:summary>
-    <itunes:author>OUTER HEAVEN PROJECT</itunes:author>
-    
-    
-    
-    
-    <itunes:explicit>false</itunes:explicit>
-    
-    <item>
-      <title>Season1 Episode8 - Epilogue</title>
-      <itunes:title>Season1 Episode8 - Epilogue</itunes:title>
-      <link>https://outerheavenproject.github.io/podcast/season1_episode8/</link>
-      <guid>https://outerheavenproject.github.io/podcast/season1_episode8/</guid>
-      <pubDate>Sat, 11 Jan 2020 17:21:14 +0900</pubDate>
-      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 8 回目です。&lt;/p&gt;
-&lt;p&gt;この episode で &lt;code&gt;outer-heaven.fm&lt;/code&gt; Season 1 は終わりです。最後に少し振り返りをしました。Season 2 があるかどうかは分かりませんが、機会があればまたお会いしましょう。ここまでお聞きいただいた皆様、本当にありがとうございました！&lt;/p&gt;
-&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/_Cordea&#34;&gt;@_Cordea&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/pside&#34;&gt;@pside&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-08.m4a" length="1900211" type="audio/mpeg" />
-      <itunes:duration>3:50</itunes:duration>
-      
-      <itunes:episode>8</itunes:episode>
-      
-      <itunes:season>1</itunes:season>
-      
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    
-    <item>
-      <title>Season1 Episode7 - Engineering survival guide</title>
-      <itunes:title>Season1 Episode7 - Engineering survival guide</itunes:title>
-      <link>https://outerheavenproject.github.io/podcast/season1_episode7/</link>
-      <guid>https://outerheavenproject.github.io/podcast/season1_episode7/</guid>
-      <pubDate>Sat, 11 Jan 2020 16:57:28 +0900</pubDate>
-      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 7 回目です。&lt;/p&gt;
-&lt;p&gt;この episode ではモバイルアプリエンジニアの生存戦略について話しました。前半はモバイルアプリエンジニアとして次の 10 年、20 年をどのように生き抜いていけばよいのか、ネイティブアプリの仕事が無くなる時のために何をすればよいのかについて話しています。後半はマネジメント業務をする意義、「プログラミングがそれほど好きではない人たち」の生存戦略について話しました。&lt;/p&gt;
-</description>
-      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-07.m4a" length="12078759" type="audio/mpeg" />
-      <itunes:duration>24:28</itunes:duration>
-      
-      <itunes:episode>7</itunes:episode>
-      
-      <itunes:season>1</itunes:season>
-      
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    
-    <item>
-      <title>Season1 Episode6 - Team building</title>
-      <itunes:title>Season1 Episode6 - Team building</itunes:title>
-      <link>https://outerheavenproject.github.io/podcast/season1_episode6/</link>
-      <guid>https://outerheavenproject.github.io/podcast/season1_episode6/</guid>
-      <pubDate>Sat, 21 Dec 2019 19:37:48 +0900</pubDate>
-      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 6 回目です。&lt;/p&gt;
-&lt;p&gt;この episode ではチームビルディングについて話しました。前半はやりやすいチームや、過去の経験から理想のチームについて話したりしています。後半は仕事で疲れたり病んでしまうきっかけについて触れた後、そんな時どうしているかについて話しました。&lt;/p&gt;
-</description>
-      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-06.m4a" length="11334365" type="audio/mpeg" />
-      <itunes:duration>22:57</itunes:duration>
-      
-      <itunes:episode>6</itunes:episode>
-      
-      <itunes:season>1</itunes:season>
-      
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    
-    <item>
-      <title>Season1 Episode5 - Recruiting</title>
-      <itunes:title>Season1 Episode5 - Recruiting</itunes:title>
-      <link>https://outerheavenproject.github.io/podcast/season1_episode5/</link>
-      <guid>https://outerheavenproject.github.io/podcast/season1_episode5/</guid>
-      <pubDate>Sat, 21 Dec 2019 19:22:26 +0900</pubDate>
-      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 5 回目です。&lt;/p&gt;
-&lt;p&gt;この episode では採用について話しました。私達から見た採用の現状や、モバイルアプリエンジニアを増やすために出来ることなど、色々なことを話しています。&lt;/p&gt;
-</description>
-      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-05.m4a" length="7138916" type="audio/mpeg" />
-      <itunes:duration>14:27</itunes:duration>
-      
-      <itunes:episode>5</itunes:episode>
-      
-      <itunes:season>1</itunes:season>
-      
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    
-    <item>
-      <title>Season1 Episode4 - Sign in with Apple on Android</title>
-      <itunes:title>Season1 Episode4 - Sign in with Apple on Android</itunes:title>
-      <link>https://outerheavenproject.github.io/podcast/season1_episode4/</link>
-      <guid>https://outerheavenproject.github.io/podcast/season1_episode4/</guid>
-      <pubDate>Thu, 19 Dec 2019 21:41:44 +0900</pubDate>
-      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 4 回目です。&lt;/p&gt;
-&lt;p&gt;この episode では Sign in with Apple を Android で実装することについて話しました。&lt;/p&gt;
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;How to add ‘Sign in with Apple’ button to your Android app using Kotlin
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://johncodeos.com/how-to-add-sign-in-with-apple-button-to-your-android-app-using-kotlin/&#34;&gt;https://johncodeos.com/how-to-add-sign-in-with-apple-button-to-your-android-app-using-kotlin/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Sign in with Apple
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/sign-in-with-apple/&#34;&gt;https://developer.apple.com/sign-in-with-apple/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;New Guidelines for Sign in with Apple
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/news/?id=09122019b&#34;&gt;https://developer.apple.com/news/?id=09122019b&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-04.m4a" length="3090195" type="audio/mpeg" />
-      <itunes:duration>6:15</itunes:duration>
-      
-      <itunes:episode>4</itunes:episode>
-      
-      <itunes:season>1</itunes:season>
-      
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    
-    <item>
-      <title>Season1 Episode3 - ThoughtWorks Radar</title>
-      <itunes:title>Season1 Episode3 - ThoughtWorks Radar</itunes:title>
-      <link>https://outerheavenproject.github.io/podcast/season1_episode3/</link>
-      <guid>https://outerheavenproject.github.io/podcast/season1_episode3/</guid>
-      <pubDate>Thu, 19 Dec 2019 21:14:20 +0900</pubDate>
-      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 3 回目です。&lt;/p&gt;
-&lt;p&gt;この episode では、ThoughtWorks Radar を見ながら最近の技術トレンドについて話しました。後半は 10x engineer のセクションに関連してチーム開発の話をしたり、デザインツールについて話したりしています。&lt;/p&gt;
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ThoughtWorks Radar
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thoughtworks.com/radar&#34;&gt;https://www.thoughtworks.com/radar&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Jetpack Compose
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.android.com/jetpack/compose&#34;&gt;https://developer.android.com/jetpack/compose&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-03.m4a" length="11545492" type="audio/mpeg" />
-      <itunes:duration>23:23</itunes:duration>
-      
-      <itunes:episode>3</itunes:episode>
-      
-      <itunes:season>1</itunes:season>
-      
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    
-    <item>
-      <title>Season1 Episode2 - Testing and CI/CD, now and future</title>
-      <itunes:title>Season1 Episode2 - Testing and CI/CD, now and future</itunes:title>
-      <link>https://outerheavenproject.github.io/podcast/season1_episode2/</link>
-      <guid>https://outerheavenproject.github.io/podcast/season1_episode2/</guid>
-      <pubDate>Wed, 11 Dec 2019 22:17:22 +0900</pubDate>
-      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 2 回目です。&lt;/p&gt;
-&lt;p&gt;この episode では、Unit test や UI test のあり方について話しました。後半では CI/CD の話やマネージメントポジションの人のプロダクト貢献について話しています。&lt;/p&gt;
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Take screenshots in instrumentation tests
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://firebase.google.com/docs/test-lab/android/test-screenshots&#34;&gt;https://firebase.google.com/docs/test-lab/android/test-screenshots&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-02.m4a" length="7431832" type="audio/mpeg" />
-      <itunes:duration>15:03</itunes:duration>
-      
-      <itunes:episode>2</itunes:episode>
-      
-      <itunes:season>1</itunes:season>
-      
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    
-    <item>
-      <title>Season1 Episode1 - OUTER HEAVEN PROJECT</title>
-      <itunes:title>Season1 Episode1 - OUTER HEAVEN PROJECT</itunes:title>
-      <link>https://outerheavenproject.github.io/podcast/season1_episode1/</link>
-      <guid>https://outerheavenproject.github.io/podcast/season1_episode1/</guid>
-      <pubDate>Mon, 02 Dec 2019 21:11:55 +0900</pubDate>
-      <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; の 1 回目です。&lt;/p&gt;
-&lt;p&gt;この episode では、Jetbrains が予告している New product announcement の話を皮切りに、OUTER HEAVEN PROJECT がそもそも何なのかについて話しました。
-また、Project で作った Android Dagger codelab の話や、Android アプリ開発で使われる DI Framework の話もしています。 ちなみに Kodein については会話の中でほとんど触れていませんが、今以て精力的に開発が行われており、引き続き有力な選択肢の一つとなりそうです。&lt;/p&gt;
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;New product announcement
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;https://www.jetbrains.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;On KotlinConf Jetbrains will announce new product. What do you think it will be? - Reddit
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/Kotlin/comments/e2fyfj/on_kotlinconf_jetbrains_will_announce_new_product/&#34;&gt;https://www.reddit.com/r/Kotlin/comments/e2fyfj/on_kotlinconf_jetbrains_will_announce_new_product/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;OUTER HEAVEN PROJECT
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/outerheavenproject&#34;&gt;https://github.com/outerheavenproject&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Android Dagger codelab
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dagger-codelab.netlify.com&#34;&gt;https://dagger-codelab.netlify.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dagger 2
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/google/dagger&#34;&gt;https://github.com/google/dagger&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Koin
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/InsertKoinIO/koin&#34;&gt;https://github.com/InsertKoinIO/koin&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Kodein
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Kodein-Framework/Kodein-DI&#34;&gt;https://github.com/Kodein-Framework/Kodein-DI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-01.m4a" length="5898863" type="audio/mpeg" />
-      <itunes:duration>11:57</itunes:duration>
-      
-      <itunes:episode>1</itunes:episode>
-      
-      <itunes:season>1</itunes:season>
-      
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>outer-heaven.fm</title><link>https://outerheavenproject.github.io/podcast/</link><description>Android を中心として Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す OUTER HEAVEN PROJECT の Podcast</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Sat, 11 Jan 2020 17:21:14 +0900</lastBuildDate><atom:link href="https://outerheavenproject.github.io/podcast/index.xml" rel="self" type="application/rss+xml"/><itunes:image href="https://outerheavenproject.github.io/images/ohfm.png"/><itunes:category text="Technology"/><itunes:summary>Android を中心として Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す OUTER HEAVEN PROJECT の Podcast</itunes:summary><itunes:author>OUTER HEAVEN PROJECT</itunes:author><itunes:explicit>false</itunes:explicit><item><title>Season1 Episode8 - Epilogue</title><itunes:title>Season1 Episode8 - Epilogue</itunes:title><link>https://outerheavenproject.github.io/podcast/season1_episode8/</link><guid>https://outerheavenproject.github.io/podcast/season1_episode8/</guid><pubDate>Sat, 11 Jan 2020 17:21:14 +0900</pubDate><description>&lt;p>&lt;code>outer-heaven.fm&lt;/code> の 8 回目です。&lt;/p>
+&lt;p>この episode で &lt;code>outer-heaven.fm&lt;/code> Season 1 は終わりです。最後に少し振り返りをしました。Season 2 があるかどうかは分かりませんが、機会があればまたお会いしましょう。ここまでお聞きいただいた皆様、本当にありがとうございました！&lt;/p>
+&lt;h3 id="contact">Contact&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/_Cordea">@_Cordea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/pside">@pside&lt;/a>&lt;/li>
+&lt;/ul></description><enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-08.m4a" length="1900211" type="audio/mpeg"/><itunes:duration>3:50</itunes:duration><itunes:episode>8</itunes:episode><itunes:season>1</itunes:season><itunes:explicit>false</itunes:explicit></item><item><title>Season1 Episode7 - Engineering survival guide</title><itunes:title>Season1 Episode7 - Engineering survival guide</itunes:title><link>https://outerheavenproject.github.io/podcast/season1_episode7/</link><guid>https://outerheavenproject.github.io/podcast/season1_episode7/</guid><pubDate>Sat, 11 Jan 2020 16:57:28 +0900</pubDate><description>&lt;p>&lt;code>outer-heaven.fm&lt;/code> の 7 回目です。&lt;/p>
+&lt;p>この episode ではモバイルアプリエンジニアの生存戦略について話しました。前半はモバイルアプリエンジニアとして次の 10 年、20 年をどのように生き抜いていけばよいのか、ネイティブアプリの仕事が無くなる時のために何をすればよいのかについて話しています。後半はマネジメント業務をする意義、「プログラミングがそれほど好きではない人たち」の生存戦略について話しました。&lt;/p></description><enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-07.m4a" length="12078759" type="audio/mpeg"/><itunes:duration>24:28</itunes:duration><itunes:episode>7</itunes:episode><itunes:season>1</itunes:season><itunes:explicit>false</itunes:explicit></item><item><title>Season1 Episode6 - Team building</title><itunes:title>Season1 Episode6 - Team building</itunes:title><link>https://outerheavenproject.github.io/podcast/season1_episode6/</link><guid>https://outerheavenproject.github.io/podcast/season1_episode6/</guid><pubDate>Sat, 21 Dec 2019 19:37:48 +0900</pubDate><description>&lt;p>&lt;code>outer-heaven.fm&lt;/code> の 6 回目です。&lt;/p>
+&lt;p>この episode ではチームビルディングについて話しました。前半はやりやすいチームや、過去の経験から理想のチームについて話したりしています。後半は仕事で疲れたり病んでしまうきっかけについて触れた後、そんな時どうしているかについて話しました。&lt;/p></description><enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-06.m4a" length="11334365" type="audio/mpeg"/><itunes:duration>22:57</itunes:duration><itunes:episode>6</itunes:episode><itunes:season>1</itunes:season><itunes:explicit>false</itunes:explicit></item><item><title>Season1 Episode5 - Recruiting</title><itunes:title>Season1 Episode5 - Recruiting</itunes:title><link>https://outerheavenproject.github.io/podcast/season1_episode5/</link><guid>https://outerheavenproject.github.io/podcast/season1_episode5/</guid><pubDate>Sat, 21 Dec 2019 19:22:26 +0900</pubDate><description>&lt;p>&lt;code>outer-heaven.fm&lt;/code> の 5 回目です。&lt;/p>
+&lt;p>この episode では採用について話しました。私達から見た採用の現状や、モバイルアプリエンジニアを増やすために出来ることなど、色々なことを話しています。&lt;/p></description><enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-05.m4a" length="7138916" type="audio/mpeg"/><itunes:duration>14:27</itunes:duration><itunes:episode>5</itunes:episode><itunes:season>1</itunes:season><itunes:explicit>false</itunes:explicit></item><item><title>Season1 Episode4 - Sign in with Apple on Android</title><itunes:title>Season1 Episode4 - Sign in with Apple on Android</itunes:title><link>https://outerheavenproject.github.io/podcast/season1_episode4/</link><guid>https://outerheavenproject.github.io/podcast/season1_episode4/</guid><pubDate>Thu, 19 Dec 2019 21:41:44 +0900</pubDate><description>&lt;p>&lt;code>outer-heaven.fm&lt;/code> の 4 回目です。&lt;/p>
+&lt;p>この episode では Sign in with Apple を Android で実装することについて話しました。&lt;/p>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;ul>
+&lt;li>How to add ‘Sign in with Apple’ button to your Android app using Kotlin
+&lt;ul>
+&lt;li>&lt;a href="https://johncodeos.com/how-to-add-sign-in-with-apple-button-to-your-android-app-using-kotlin/">https://johncodeos.com/how-to-add-sign-in-with-apple-button-to-your-android-app-using-kotlin/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Sign in with Apple
+&lt;ul>
+&lt;li>&lt;a href="https://developer.apple.com/sign-in-with-apple/">https://developer.apple.com/sign-in-with-apple/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>New Guidelines for Sign in with Apple
+&lt;ul>
+&lt;li>&lt;a href="https://developer.apple.com/news/?id=09122019b">https://developer.apple.com/news/?id=09122019b&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description><enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-04.m4a" length="3090195" type="audio/mpeg"/><itunes:duration>6:15</itunes:duration><itunes:episode>4</itunes:episode><itunes:season>1</itunes:season><itunes:explicit>false</itunes:explicit></item><item><title>Season1 Episode3 - ThoughtWorks Radar</title><itunes:title>Season1 Episode3 - ThoughtWorks Radar</itunes:title><link>https://outerheavenproject.github.io/podcast/season1_episode3/</link><guid>https://outerheavenproject.github.io/podcast/season1_episode3/</guid><pubDate>Thu, 19 Dec 2019 21:14:20 +0900</pubDate><description>&lt;p>&lt;code>outer-heaven.fm&lt;/code> の 3 回目です。&lt;/p>
+&lt;p>この episode では、ThoughtWorks Radar を見ながら最近の技術トレンドについて話しました。後半は 10x engineer のセクションに関連してチーム開発の話をしたり、デザインツールについて話したりしています。&lt;/p>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;ul>
+&lt;li>ThoughtWorks Radar
+&lt;ul>
+&lt;li>&lt;a href="https://www.thoughtworks.com/radar">https://www.thoughtworks.com/radar&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Jetpack Compose
+&lt;ul>
+&lt;li>&lt;a href="https://developer.android.com/jetpack/compose">https://developer.android.com/jetpack/compose&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description><enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-03.m4a" length="11545492" type="audio/mpeg"/><itunes:duration>23:23</itunes:duration><itunes:episode>3</itunes:episode><itunes:season>1</itunes:season><itunes:explicit>false</itunes:explicit></item><item><title>Season1 Episode2 - Testing and CI/CD, now and future</title><itunes:title>Season1 Episode2 - Testing and CI/CD, now and future</itunes:title><link>https://outerheavenproject.github.io/podcast/season1_episode2/</link><guid>https://outerheavenproject.github.io/podcast/season1_episode2/</guid><pubDate>Wed, 11 Dec 2019 22:17:22 +0900</pubDate><description>&lt;p>&lt;code>outer-heaven.fm&lt;/code> の 2 回目です。&lt;/p>
+&lt;p>この episode では、Unit test や UI test のあり方について話しました。後半では CI/CD の話やマネージメントポジションの人のプロダクト貢献について話しています。&lt;/p>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;ul>
+&lt;li>Take screenshots in instrumentation tests
+&lt;ul>
+&lt;li>&lt;a href="https://firebase.google.com/docs/test-lab/android/test-screenshots">https://firebase.google.com/docs/test-lab/android/test-screenshots&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description><enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-02.m4a" length="7431832" type="audio/mpeg"/><itunes:duration>15:03</itunes:duration><itunes:episode>2</itunes:episode><itunes:season>1</itunes:season><itunes:explicit>false</itunes:explicit></item><item><title>Season1 Episode1 - OUTER HEAVEN PROJECT</title><itunes:title>Season1 Episode1 - OUTER HEAVEN PROJECT</itunes:title><link>https://outerheavenproject.github.io/podcast/season1_episode1/</link><guid>https://outerheavenproject.github.io/podcast/season1_episode1/</guid><pubDate>Mon, 02 Dec 2019 21:11:55 +0900</pubDate><description>&lt;p>&lt;code>outer-heaven.fm&lt;/code> の 1 回目です。&lt;/p>
+&lt;p>この episode では、Jetbrains が予告している New product announcement の話を皮切りに、OUTER HEAVEN PROJECT がそもそも何なのかについて話しました。
+また、Project で作った Android Dagger codelab の話や、Android アプリ開発で使われる DI Framework の話もしています。 ちなみに Kodein については会話の中でほとんど触れていませんが、今以て精力的に開発が行われており、引き続き有力な選択肢の一つとなりそうです。&lt;/p>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;ul>
+&lt;li>New product announcement
+&lt;ul>
+&lt;li>&lt;a href="https://www.jetbrains.com/">https://www.jetbrains.com/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>On KotlinConf Jetbrains will announce new product. What do you think it will be? - Reddit
+&lt;ul>
+&lt;li>&lt;a href="https://www.reddit.com/r/Kotlin/comments/e2fyfj/on_kotlinconf_jetbrains_will_announce_new_product/">https://www.reddit.com/r/Kotlin/comments/e2fyfj/on_kotlinconf_jetbrains_will_announce_new_product/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>OUTER HEAVEN PROJECT
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/outerheavenproject">https://github.com/outerheavenproject&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Android Dagger codelab
+&lt;ul>
+&lt;li>&lt;a href="https://dagger-codelab.netlify.com">https://dagger-codelab.netlify.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Dagger 2
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/google/dagger">https://github.com/google/dagger&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Koin
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/InsertKoinIO/koin">https://github.com/InsertKoinIO/koin&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Kodein
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/Kodein-Framework/Kodein-DI">https://github.com/Kodein-Framework/Kodein-DI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description><enclosure url="https://outerheavenproject.github.io/sounds/001/ohfm-001-01.m4a" length="5898863" type="audio/mpeg"/><itunes:duration>11:57</itunes:duration><itunes:episode>1</itunes:episode><itunes:season>1</itunes:season><itunes:explicit>false</itunes:explicit></item></channel></rss>
